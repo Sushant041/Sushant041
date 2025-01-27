@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushant041&label=Profile%20views&color=0e75b6&style=flat" alt="sushant041" /> </p>
 
-- 🔭 I’m currently participating in **Web3 Hackathons**
+- 🔭 I’m currently exploring **Web3 Hackathons**
 
 - 🌱 I’m currently learning **Web3(ethereum, solana, aptos)**
 
